@@ -1,5 +1,12 @@
 # NationalizeApp
 
+## Clone Project
+
+```
+git clone git@github.com:MigueGonzale/NationalizeApp.git
+git checkout main
+```
+
 ## Implementation
 
 Retrofit 2.9.0
