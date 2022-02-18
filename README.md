@@ -4,6 +4,7 @@
 
 ```
 git clone git@github.com:MigueGonzale/NationalizeApp.git
+cd NationalizeApp
 git checkout main
 ```
 
